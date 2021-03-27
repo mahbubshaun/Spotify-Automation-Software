@@ -4,7 +4,7 @@
 
 Given a list of Spotify artist’s profile URLs, the automation tool needs to find out their social media accounts, monthly listeners, Total followers.
 
-### Test Cases to automate:
+### Steps to automate:
 
 * Get Spotify artist links form google sheet.
 * Collect Spotify followers, monthly listeners from the link.
