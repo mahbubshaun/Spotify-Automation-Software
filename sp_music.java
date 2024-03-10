@@ -163,7 +163,7 @@ public class sp_music {
         });
     }
 
-    public static void rebeet() {
+    public static void startAutomationProcess() {
         SwingWorker<Void, Void> email = new SwingWorker<Void, Void>() {
 
             private int s;
@@ -522,7 +522,7 @@ public class sp_music {
                     String id = txtztmxpgkxfbvlvyaccbqmnueswaspmsvw.getText();
 
                     sp.assing4(id);
-                    rebeet();
+                    startAutomationProcess();
                 }
 
             }
